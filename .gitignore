@@ -1,0 +1,6 @@
+node_modules/
+templates/
+.idea/
+cached/
+test/
+package-lock.json
